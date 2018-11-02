@@ -1,4 +1,4 @@
-# AngularTodo
+# AngularTodo [![Build Status](https://travis-ci.com/sheetal2211/angular-todo.svg?branch=master)](https://travis-ci.com/sheetal2211/angular-todo)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
