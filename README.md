@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4aad6051a841419eb0f2c5392452fd2b)](https://app.codacy.com/app/sheetal2211/angular-todo?utm_source=github.com&utm_medium=referral&utm_content=sheetal2211/angular-todo&utm_campaign=Badge_Grade_Dashboard)
 # AngularTodo [![Build Status](https://travis-ci.com/sheetal2211/angular-todo.svg?branch=master)](https://travis-ci.com/sheetal2211/angular-todo) [![Coverage Status](https://coveralls.io/repos/github/sheetal2211/angular-todo/badge.svg)](https://coveralls.io/github/sheetal2211/angular-todo)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
