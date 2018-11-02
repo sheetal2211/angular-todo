@@ -22,6 +22,8 @@ script:
 - ng test --watch=false
 - ng build --prod --base-href https://sheetal2211.github.io/angular-todo/
 
+after_success:
+- cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
 
 deploy:
   provider: pages
